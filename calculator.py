@@ -1,4 +1,5 @@
 # Simple calculator that performs basic arithmetic operations
+# Supported operations: addition, subtraction, multiplication, division
 
 first_num = float(input("Enter first number: "))
 second_num = float(input("Enter second number: "))
