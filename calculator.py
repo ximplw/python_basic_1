@@ -1,3 +1,5 @@
+# Simple calculator that performs basic arithmetic operations
+
 first_num = float(input("Enter first number: "))
 second_num = float(input("Enter second number: "))
 operation = input("Enter operation (+, -, *, /): ")
