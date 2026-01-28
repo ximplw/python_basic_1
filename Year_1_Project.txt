@@ -1,0 +1,240 @@
+
+
+---
+
+# YEAR 1 — WEEK-BY-WEEK TASK PLAN
+
+**Focus:** Programming + Computational Thinking + Math
+**Time:** ~15–20 hrs/week
+**Rule:** No code written = week not completed
+
+---
+
+## MONTH 1 — Programming Foundations (Python)
+
+### Week 1 — Thinking Like a Programmer[Done]
+
+Tasks:
+
+* Install Python + VS Code
+* Write 5 tiny programs:
+
+  * Calculator
+  * Temperature converter
+  * Even/odd checker
+  * Simple interest calculator
+  * Number guessing game
+* Learn:
+
+  * Variables
+  * Input/output
+  * Conditionals
+
+Deliverable:
+
+* GitHub repo: `python-basics`
+* One README explaining what each program does (simple English)
+
+---
+
+### Week 2 — Loops & Functions
+
+Tasks:
+
+* Write programs using:
+
+  * `for` loops
+  * `while` loops
+  * functions
+* Implement:
+
+  * Fibonacci series
+  * Prime number checker
+  * Multiplication table generator
+
+Stretch task:
+
+* Rewrite one program *without* using loops (forces thinking)
+
+---
+
+### Week 3 — Data Types & Errors
+
+Tasks:
+
+* Work with:
+
+  * Lists
+  * Tuples
+  * Dictionaries
+* Write a program that:
+
+  * Stores student names + marks
+  * Calculates average
+  * Finds top scorer
+
+Reality check:
+
+* Intentionally break your code
+* Fix errors by reading tracebacks (no Googling first)
+
+---
+
+### Week 4 — Mini Project 1
+
+Project:
+
+* **Console-based Student Management System**
+
+  * Add students
+  * Update marks
+  * Display results
+  * Save/load from file
+
+Rule:
+
+* No copy-paste from internet
+* Logic must be yours
+
+---
+
+## MONTH 2 — Computer Science Fundamentals
+
+### Week 5 — Algorithms & Flow
+
+Tasks:
+
+* Draw flowcharts for:
+
+  * Sorting numbers
+  * Searching an element
+* Implement:
+
+  * Linear search
+  * Bubble sort (from scratch)
+
+Explain:
+
+* Write comments explaining *why* each step exists
+
+---
+
+### Week 6 — Time Complexity (Big-O)
+
+Tasks:
+
+* Compare:
+
+  * One loop vs nested loop
+* Write two versions of same program:
+
+  * Fast
+  * Slow
+
+Goal:
+
+* Feel performance, not memorize theory
+
+---
+
+### Week 7 — Strings & Files
+
+Tasks:
+
+* Read text from a file
+* Count:
+
+  * Words
+  * Characters
+  * Frequency of letters
+
+Mini-project:
+
+* Text analyzer (input file → stats output)
+
+---
+
+### Week 8 — Mini Project 2
+
+Project:
+
+* **File-Based Expense Tracker**
+
+  * Add expenses
+  * Categorize
+  * Monthly summary
+
+This mimics real-world software, not exam toys.
+
+---
+
+## MONTH 3 — Math for AI (Quietly Brutal)
+
+### Week 9 — Discrete Math & Logic
+
+Tasks:
+
+* Truth tables
+* AND / OR / NOT logic in Python
+* Write a program that simulates logical gates
+
+Why:
+
+* AI decisions are logic chains wearing fancy clothes
+
+---
+
+### Week 10 — Probability Basics
+
+Tasks:
+
+* Simulate coin tosses (100, 1,000, 10,000)
+* Plot outcomes
+* Compare expected vs actual probability
+
+Reality lesson:
+
+* Randomness behaves only statistically, not emotionally
+
+---
+
+### Week 11 — Statistics
+
+Tasks:
+
+* Calculate:
+
+  * Mean
+  * Median
+  * Standard deviation
+* Use real data (CSV)
+* Visualize results
+
+Tool:
+
+* Python + basic plotting
+
+---
+
+### Week 12 — Semester Project
+
+Project:
+
+* **Data Analysis Project**
+
+  * Choose a dataset (finance, weather, population, sports)
+  * Clean data
+  * Analyze trends
+  * Write conclusions
+
+Deliverables:
+
+* Jupyter notebook
+* GitHub repo
+* Short report (1–2 pages)
+
+This replaces your “Semester 1 final exam”.
+
+---
+
+
